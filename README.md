@@ -52,6 +52,8 @@ Hohpe: _The Software Architect Elevator_
 
 ## Software Design & Technique
 
+Thomas, Hunt: _The Pragmatic Programmer_
+
 Martin: _Clean Code_
 
 Evans: _Domain Driven Design_
