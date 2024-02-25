@@ -12,6 +12,8 @@ Schwartz: _The Art of Business Value_
 
 Dietrich: _Developer Hegemony_
 
+Cagan: _Inspired_
+
 ## Leadership & Productivity
 
 Pink: _Drive_
